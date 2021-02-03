@@ -5,8 +5,6 @@ library("grid")
 library("gridExtra")
 library(OpenImageR)
 
-
-# Exercise 4 of sheet 2
 # Reduce number of colors that occur in an image
 dims = 100
 
